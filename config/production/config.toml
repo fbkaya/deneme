@@ -1,2 +1,2 @@
-baseurl = "https://fbkaya.github.io/deneme/"
-googleAnalytics = "UA-97403777-3"
+baseURL = "/"
+googleAnalytics = ""
