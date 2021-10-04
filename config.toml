@@ -1,4 +1,4 @@
-baseURL = "https://fbkaya.gitlab.io/hugo/"
+baseURL = "https://fbkaya.gitlab.io/deneme"
 title = "Hugo Bootstrap"
 theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
